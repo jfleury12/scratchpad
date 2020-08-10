@@ -1,0 +1,2 @@
+# scratchpad
+Random coding practices
